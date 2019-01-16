@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "E:\\sites\\bloom"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#FFC0CB",
+      "titleBar.activeForeground": "#000"
+    }
+  }
+}
