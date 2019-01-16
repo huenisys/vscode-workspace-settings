@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "E:\\packages\\huenisys\\bloom"
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#87CEFA",
+      "titleBar.activeForeground": "#000"
+    }
+  }
+}
